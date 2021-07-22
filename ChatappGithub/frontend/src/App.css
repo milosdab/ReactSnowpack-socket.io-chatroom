@@ -1,0 +1,24 @@
+.App {
+    width: 400px;
+}
+
+.messageDiv {
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    padding: 3px;
+    word-wrap:break-word;
+    
+}
+.App input {
+    width: 400px;
+    height: 40px;
+}
+
+.received {
+    width: 200px;
+}
+.sent {
+    margin-left: 200px;
+    text-align: right;
+}
